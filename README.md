@@ -6,8 +6,8 @@ Code Expert exercises from the Algorithms Lab course at ETH Zürich.
 | ---- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
 |1|-|[Dominoes](Week01/Dominoes/main.cpp)|[Even Pairs](Week01/Even%20Pairs/main.cpp)|[Even Matrices](Week01/Even%20Matrices/main.cpp)|[Build the Sum](Week01/Even%20Matrices/main.cpp)|
 |2|[Deck of Cards](Week02/Deck%20of%20Cards/main.cpp)|[Beach Bars](Week02/Beach%20Bars/main.cpp)|[Burning Coins](Week02/Burning%20Coins/main.cpp)|[Defensive Line](Week02/Defensive%20Line/main.cpp)|[The Great Game](Week02/The%20Great%20Game/main.cpp)|
-|3|[]()|[]()|[]()|[]()|[]()|
-|4|[]()|[]()|[]()|[]()|[]()|
+|3|[James Bond's Sovereigns]()|[First steps with BGL]()|[Buddy Selection]()|[Ant Challenge]()|[Important Bridges]()|
+|4|[Greyjoy]()|[Hit]()|[First Hit]()|[Antenna]()|[Hiking Maps]()|
 |5|[]()|[]()|[]()|[]()|[]()|
 |6|[]()|[]()|[]()|[]()|[]()|
 |7|[]()|[]()|[]()|[]()|[]()|
