@@ -15,6 +15,6 @@ Code Expert exercises from the Algorithms Lab course at ETH Zürich.
 |9|[Idefix]()|[Placing Knights]()|[Real Estate Market]()|[Canteen]()|[Algocoon]()|
 |10|[Hermione Granger]()|[Asterix and the Tour of Gaul]()|[Rubeus Hagrid]()|[San Francisco]()|[The Hand’s Tourney]()|
 |11|[Ceryneian Hind]()|[Asterix in Switzerland]()|[Lernaean Hydra]()|[Sith]()|[Worldcup]()|
-|12|[]()|[]()|[]()|[]()|[]()|
-|13|[]()|[]()|[]()|[]()|[]()|
-|14|[]()|[]()|[]()|[]()|[]()|
+|12|[Pied Piper]()|[Alastor Moody]()|[Nemean Lion]()|[Rapunzel]()|[Return of the Jedi]()|
+|13|[Schneewittchen]()|[Asterix and the Chariot Race]()|[Car Sharing]()|[Fighting Pits of Meereen]()|[Suez]()|
+|14|[Ludo Bagman]()|-|-|-|-|
