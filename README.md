@@ -10,11 +10,11 @@ Code Expert exercises from the Algorithms Lab course at ETH Zürich.
 |4|[Greyjoy](Week04/Greyjoy)|[Hit](Week04/Hit)|[First Hit](Week04/First%20Hit)|[Antenna](Week04/Antenna)|[Hiking Maps](Week04/Hiking%20Maps)|
 |5|[Tracking](Week05/Tracking)|[Moving Books](Week05/Moving%20Books)|[Asterix the Gaul](Week05/Asterix%20the%20Gaul)|[Severus Snape](Week05/Severus%20Snape)|[Boats](Week05/Boats)|
 |6|[Motorcycles](Week06/Motorcycles)|[Tiles](Week06/Tiles)|[Coin Tossing Tournament](Week06/Coin%20Tossing%20Tournament)|[Knights](Week06/Knights)|[Kingdom Defense](Week06/Kingdom%20Defense)|
-|7|[Octopussy]()|[Bistro]()|[H1N1]()|[Germs]()|[Clues]()|
-|8|[Attack on King's Landing]()|[Maximize it]()|[Diet]()|[Inball]()|[Casterly Rock]()|
-|9|[Idefix]()|[Placing Knights]()|[Real Estate Market]()|[Canteen]()|[Algocoon]()|
-|10|[Hermione Granger]()|[Asterix and the Tour of Gaul]()|[Rubeus Hagrid]()|[San Francisco]()|[The Hand’s Tourney]()|
-|11|[Ceryneian Hind]()|[Asterix in Switzerland]()|[Lernaean Hydra]()|[Sith]()|[Worldcup]()|
-|12|[Pied Piper]()|[Alastor Moody]()|[Nemean Lion]()|[Rapunzel]()|[Return of the Jedi]()|
-|13|[Schneewittchen]()|[Asterix and the Chariot Race]()|[Car Sharing]()|[Fighting Pits of Meereen]()|[Suez]()|
-|14|[Ludo Bagman]()|-|-|-|-|
+|7|[Octopussy](Week07/Octopussy)|[Bistro](Week07/Bistro)|[H1N1](Week07/H1N1)|[Germs](Week07/Germs)|[Clues](Week07/Clues)|
+|8|[Attack on King's Landing](Week08/Attack%20on%20King's%20Landing)|[Maximize it](Week08/Maximize%20it!)|[Diet](Week08/Diet)|[Inball](Week08/Inball)|[Casterly Rock](Week08/Casterly%20Rock)|
+|9|[Idefix](Week09/Idefix)|[Placing Knights](Placing%20Knights)|[Real Estate Market](Week09/Real%20Estate%20Market)|[Canteen](Week09/Canteen)|[Algocoon](Week09/Algocoon)|
+|10|[Hermione Granger](Week10/Hermione%20Granger)|[Asterix and the Tour of Gaul](Week10/Asterix%20and%20the%20Tour%20of%20Gaul)|[Rubeus Hagrid](Week10/Rubeus%20Hagrid)|[San Francisco](Week10/San%20Francisco)|[The Hand’s Tourney](Week10/The%20Hand’s%20Tourney)|
+|11|[Ceryneian Hind](Week11/Ceryneian%20Hind)|[Asterix in Switzerland](Week11/Asterix%20in%20Switzerland)|[Lernaean Hydra](Week11/Lernaean%20Hydra)|[Sith](Week11/Sith)|[Worldcup](Week11/Worldcup)|
+|12|[Pied Piper](Week12/Pied%20Piper)|[Alastor Moody](Week12/Alastor%20Moody)|[Nemean Lion](Week12/Nemean%20Lion)|[Rapunzel](Week12/Rapunzel)|[Return of the Jedi](Week12/Return%20of%20the%20Jedi)|
+|13|[Schneewittchen](Week13/Schneewittchen)|[Asterix and the Chariot Race](Week13/Asterix%20and%20the%20Chariot%20Race)|[Car Sharing](Week13/Car%20Sharing)|[Fighting Pits of Meereen](Week13/Fighting%20Pits%20of%20Meereen)|[Suez](Week13/Suez)|
+|14|[Ludo Bagman](Week14/Ludo%20Bagman)|-|-|-|-|
